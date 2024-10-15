@@ -2,9 +2,11 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+First, clone the repo and run the development server:
 
 ```bash
+git clone https://github.com/mabbasbangash97/dashboard-frontend
+cd dashboard-frontend
 npm run dev
 # or
 yarn dev
